@@ -7,3 +7,5 @@ Please DO NOT repost or use other links to the addon besides our wiki site and M
 
 ---
 
+To download, head above and click on the MoreToExplore.mcaddon.zip file and download the file,
+names may differ depending on the file version.
