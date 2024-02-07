@@ -3,7 +3,7 @@ Please DO NOT repost or use other links to the addon besides our wiki site and M
 
 ## Wiki and Info site:
 
-[Wiki Site (Recommened to be read through at least once](https://1d10t1c-stud10s.github.io/more-to-explore/)
+[Wiki Site (Recommened to be read through at least once)](https://1d10t1c-stud10s.github.io/more-to-explore/)
 
 ---
 
