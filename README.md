@@ -1,4 +1,9 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Welcome to More to Explore's download page!
+Please DO NOT repost or use other links to the addon besides our wiki site and MCPEDL site! If you do, we will take action and take down the content.
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+## Wiki and Info site:
+
+[Wiki](https://1d10t1c-stud10s.github.io/more-to-explore/)
+
+---
+
