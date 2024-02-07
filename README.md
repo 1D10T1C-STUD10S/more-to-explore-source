@@ -3,9 +3,8 @@ Please DO NOT repost or use other links to the addon besides our wiki site and M
 
 ## Wiki and Info site:
 
-[Wiki](https://1d10t1c-stud10s.github.io/more-to-explore/)
+[Wiki Site (Recommened to be read through at least once](https://1d10t1c-stud10s.github.io/more-to-explore/)
 
 ---
 
-To download, head above and click on the MoreToExplore.mcaddon.zip file and download the file,
-names may differ depending on the file version.
+To download, head to releases and download the files!
